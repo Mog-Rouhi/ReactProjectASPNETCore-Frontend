@@ -1,0 +1,2 @@
+D:\projects-post-bootcamp\c#_.net\ReactProjectASPNETCore\ReactProjectASPNETCore-Frontend\obj\Debug\reactprojectaspnetcore-frontend.esproj.SuggestedBindingRedirects.cache
+D:\projects-post-bootcamp\c#_.net\ReactProjectASPNETCore\ReactProjectASPNETCore-Frontend\obj\Debug\reactprojectaspnetcore-frontend.esproj.CoreCompileInputs.cache
